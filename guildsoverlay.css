@@ -2,7 +2,7 @@
     position: absolute;
     z-index: 101;
     height: 100%;
-    padding-right: 1px;
+    padding-right: 40px;
     left: -72px;
     box-shadow: 5px 0px 40px rgba(0, 0, 0, 0.0);
     transition: var(--2);
