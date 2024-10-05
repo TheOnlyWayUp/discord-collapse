@@ -4,7 +4,7 @@
     height: 100%;
     right: -240px;
     background-color: var(--background);
-    padding-left: 1px;
+    padding-left: 10px;
     box-shadow: 5px 0px 40px rgba(0, 0, 0, 0.0);
     transition: var(--11);
     transition-delay: var(--12);
